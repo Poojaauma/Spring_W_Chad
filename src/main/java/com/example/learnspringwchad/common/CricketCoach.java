@@ -1,4 +1,4 @@
-package com.example.learnspringwchad.dto;
+package com.example.learnspringwchad.common;
 
 import org.springframework.stereotype.Component;
 

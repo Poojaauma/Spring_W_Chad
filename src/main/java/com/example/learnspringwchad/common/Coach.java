@@ -1,4 +1,4 @@
-package com.example.learnspringwchad.dto;
+package com.example.learnspringwchad.common;
 
 public interface Coach {
     String getDailyWorkout();
