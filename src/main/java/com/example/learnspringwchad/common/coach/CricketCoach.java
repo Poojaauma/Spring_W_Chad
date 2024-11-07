@@ -1,4 +1,4 @@
-package com.example.learnspringwchad.common;
+package com.example.learnspringwchad.common.coach;
 
 import org.springframework.stereotype.Component;
 
